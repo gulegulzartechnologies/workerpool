@@ -1,4 +1,4 @@
-module github.com/adorigi/workerpool
+module github.com/gulegulzartechnologies/workerpool
 
 go 1.22.5
 
